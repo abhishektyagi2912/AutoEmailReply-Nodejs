@@ -46,7 +46,7 @@ Automate your email responses during your vacation with this Node.js Express app
 5. Submit a pull request.
 
 # License
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/abhishektyagi2912/AutoEmailReply-Nodejs/blob/main/LICENSE) file for details.
 
 # Acknowledgments
 1. Node.js: https://nodejs.org/
